@@ -8,6 +8,7 @@ A modern Android dental care application built with Jetpack Compose.
 - Navigation using Navigation Compose
 - Material Design 3 theming
 - ThreeTenABP for date/time handling
+- Appointment Scheduling System
 
 ## Tech Stack
 
@@ -30,7 +31,7 @@ A modern Android dental care application built with Jetpack Compose.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DentaBliss.git
+   git clone https://github.com/JackNapier-1/DentalBliss.git
    ```
 
 2. Open the project in Android Studio
@@ -79,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Emmanuel Benigno - [@JackNapier-1](https://github.com/JackNapier-1)
 
-Project Link: [https://github.com/yourusername/DentaBliss](https://github.com/yourusername/DentaBliss)
+Project Link: [https://github.com/JackNapier-1/DentalBliss](https://github.com/JackNapier-1/DentalBliss)
